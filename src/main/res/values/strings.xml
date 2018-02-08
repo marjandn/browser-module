@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BrowserModule</string>
+
+    <string name="action_bookmark">bookmark</string>
+    <string name="action_back">back</string>
+    <string name="action_forward">forward</string>
+</resources>
