@@ -168,7 +168,7 @@ public class BrowserActivity extends AppCompatActivity {
         }
 
         return super.onOptionsItemSelected(item);
-        //test from gitkraken
+       
     }
 
     private void back() {
