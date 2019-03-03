@@ -21,6 +21,7 @@ import android.widget.ProgressBar;
 * this class used for external urls
 * means internal urls are show in BrowserMainActivity and
 * send external urls to BrowserActivity
+* gitKrakenB Test
 */
 
 public class BrowserActivity extends AppCompatActivity {
